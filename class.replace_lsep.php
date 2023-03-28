@@ -1,4 +1,4 @@
-<?php namespace Rainwater23;
+<?php //namespace optional;
 
 /**
  * Class Replace_Lsep
